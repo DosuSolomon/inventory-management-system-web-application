@@ -1,0 +1,5 @@
+id,type,price,status,issues
+,Laptop 7,600,SOLD,DEAD
+,Laptop 8,500,AVAILABLE,None
+,Laptop 9,800,RESTOCKING,OverHeating
+,Laptop 10,1000,SOLD,OverHeating

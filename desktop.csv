@@ -1,0 +1,6 @@
+id,type,price,status,issues
+,Desktop 5,425,SOLD,None
+,Desktop 6,25,RESTOCKING,OverHeating
+,Desktop 7,66,AVAILABLE,None
+,Desktop 8,55,SOLD,OverHeating
+,Desktop 9,222,RESTOCKING,OverHeating
